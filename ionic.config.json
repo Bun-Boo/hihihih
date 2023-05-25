@@ -1,0 +1,7 @@
+{
+  "name": "hihi",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
